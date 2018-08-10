@@ -1,0 +1,4 @@
+referenciaratributosentreclasses.ReferenciarAtributosEntreClasses
+referenciaratributosentreclasses.AtributoQueFazReferenciaAOutraClasse01
+referenciaratributosentreclasses.Cliente
+referenciaratributosentreclasses.Conta
